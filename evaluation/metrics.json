@@ -1,0 +1,13 @@
+{
+    "selected_hidden_states": 4,
+    "selection_method": "Bayesian Information Criterion (BIC)",
+    "best_bic": 3608.190558114782,
+    "window_size": 40,
+    "step_size": 5,
+    "threshold": -8.97573224359285,
+    "accuracy": 0.6111111111111112,
+    "precision": 0.23497267759562843,
+    "recall": 1.0,
+    "f1_score": 0.3805309734513274,
+    "roc_auc_not_reported": "Thresholded point predictions; likelihood scores are window-level."
+}

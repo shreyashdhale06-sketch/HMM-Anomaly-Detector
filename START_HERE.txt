@@ -1,0 +1,7 @@
+1. Open this folder in VS Code.
+2. Open terminal in this folder.
+3. Create and activate venv, then install requirements (see README.md).
+4. Run: python generate_data.py
+5. Run: python train.py
+6. Run API: python -m uvicorn app:app --reload
+7. Open: http://127.0.0.1:8000/docs
